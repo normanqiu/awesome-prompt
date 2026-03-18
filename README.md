@@ -6,18 +6,6 @@
 
 </div>
 
-<p align="center">
-  <a href="https://github.com/NeekChaw/awesome-prompt/stargazers"><img src="https://img.shields.io/github/stars/NeekChaw/awesome-prompt?style=social" alt="Stars"></a>
-  <a href="https://github.com/NeekChaw/awesome-prompt/network/members"><img src="https://img.shields.io/github/forks/NeekChaw/awesome-prompt?style=social" alt="Forks"></a>
-  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome">
-  <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License">
-  <img src="https://img.shields.io/badge/status-updating-green" alt="Status">
-</p>
-<div align="center">
-  <img src="image.png" width="250" alt="公众号二维码">
-  <p><strong>扫码关注我的公众号，获取更多 AI 前沿资讯与实践</strong></p>
-</div>
-
 ---
 
 ## 🚀 简介
@@ -43,6 +31,7 @@
 
 | 功能 | 描述 | 链接 |
 | :--- | :--- | :--- |
+| **我的收藏** | 我的收藏。 | [👉 前往](./我的收藏/) |
 | **小红书图文** | 一键将长篇文章转换成适合小红书发布的多张图片笔记。 | [👉 前往](./AI一键将长文转小红书多图/) |
 | **公众号转小红书图文** | 一键将公众号文章转换成适合小红书发布的爆款图文。 | [👉 前往](./公众号转小红书爆款图文/) |
 | **公众号标题** | 生成吸引眼球、自带爆款潜质的微信公众号文章标题。 | [👉 前往](./微信公众号爆款标题生成器/) |
