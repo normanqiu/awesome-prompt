@@ -83,10 +83,10 @@
 ### 🌟 我的收藏夹
 
 该系列收录我的收藏夹。
-
+####工具
 |<a href="https://www.deepl.com/translator" target="_blank">deepl翻译</a>|<a href="https://fanyi.baidu.com/translate" target="_blank">百度翻译</a>|<a href="https://www.iciba.com" target="_blank">金山词霸</a>|<a href="https://www.hunanit.net/calculator/" target="_blank">在线科学计算器</a>|
 |<a href="https://mp.weixin.qq.com/s/d7ILF8EjIgPfC2MTflAeLg" target="_blank">高一物理</a>|<a href="https://www.gzoffice.cn/muban/293-1591315.html" target="_blank">高一物理归纳</a>|<a href="https://mp.weixin.qq.com/s?__biz=MzA5NjMwMDM3Ng==&mid=2652098232&idx=3&sn=035357ef7ac4bdf8e6c81f872ed07762&chksm=8b55528fbc22db990fd05d69dd6e404d50c23b9cc84bded0238b7f63cf97e590133ce095e151&scene=27" target="_blank">高一化学</a>|<a href="https://www.gzoffice.cn/muban/293-1692355.html" target="_blank">高一化学归纳</a>|
-- **一句话转图像生成器**: [查看](./赛博李继刚/一句话转图像生成器.md)
+|<a href="http://gewifi.10000.gd.cn" target="_blank">114wifi</a>|<a href="https://tools.miku.ac/news/" target="_blank">新闻聚合</a>|<a href="https://mail.qq.com/" target="_blank">QQ邮件</a>|<a href="https://outlook.office.com/mail/inbox/id/AAQkAGVlOThiMmVlLWM1MzItNDViYi04MDhiLTBlNmNkZWI1N2I2ZAAQABz28%2Bk2eU5QiVsHovaiX2I%3D" target="_blank">邮件Norman</a>|<a href="https://www.baidu.com/" target="_blank">百度</a>|<a href="https://www.zhihu.com" target="_blank">知乎</a>|
 - **一句话转情感描绘生成器**: [查看](./赛博李继刚/一句话转情感描绘生成器.md)
 - **一句话转视频生成器**: [查看](./赛博李继刚/一句话转视频生成器.md)
 - **李继刚 v3.1 / v4.0**: [查看](./赛博李继刚/v3.1精炼版.md) & [查看](./赛博李继刚/v4.0李继刚.md)
